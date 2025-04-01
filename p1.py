@@ -20,7 +20,8 @@ if ans=="y":
         elif num==0 and result==2:
             print("You Loss !")
         elif num==1 and result==0:
-            print("You Loss !")
+            print("You Loss !") 
+            
         
         elif num==1 and result==2:
             print("You Won !")
